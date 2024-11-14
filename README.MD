@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 4. Run the game:
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## 🏗️ Project Structure
